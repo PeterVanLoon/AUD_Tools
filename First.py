@@ -48,7 +48,7 @@ while True:
         break
 
     else:
-        print("Invalid number")
+        print("Invalid number or something else")
 
     # break
   
